@@ -1,0 +1,42 @@
+.fine {
+    color: white;
+}
+
+.bad {
+    color: rgb(226, 58, 58);
+}
+
+.horrible {
+    color:rgb(104, 19, 19)
+}
+
+body {
+    background-color: #323437;
+    font-family: 'Roboto', sans-serif;
+}
+
+#timer {
+    color: gold;
+}
+
+.container {
+    margin-top: 350px;
+    margin-left: auto;
+    color: #646669;
+    font-size: 26px;
+}
+
+div#refresh {
+    text-align: center;
+    margin-top: 30px;
+}
+
+button.btn {
+    width: 50px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+div.word {
+    display: inline-block;
+}
